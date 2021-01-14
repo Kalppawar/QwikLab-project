@@ -1,3 +1,6 @@
+def newest_function():
+ print("this is conflicting message to create a merge conflict")
+
 def new_function():
  print("this new function just prints this line")
 
