@@ -1,3 +1,6 @@
+def newest_function():
+ print("this function is used to creat a merge confllict:")
+
 def new_function():
  print("this new function just prints this line")
 
